@@ -149,27 +149,26 @@ h1 {
     margin-top: 80px; }
   .concept .section-texto .revista-row {
     margin-bottom: 2.1em; }
+    .concept .section-texto .revista-row .ppading {
+      padding-top: 5px; }
+    .concept .section-texto .revista-row .ppading-ex {
+      padding-top: 5px; }
     .concept .section-texto .revista-row #revista {
       position: relative;
-      height: 80px;
-      padding: 5px; }
+      height: 80px; }
       .concept .section-texto .revista-row #revista a {
-        position: absolute;
-        z-index: 1;
-        left: -3px; }
-        .concept .section-texto .revista-row #revista a img {
-          width: 48%; }
+        display: block; }
       .concept .section-texto .revista-row #revista .text-rev {
         position: absolute;
         background-color: #F6A623;
-        top: 7px;
+        top: 10px;
         color: #ffffff;
         border-radius: 5px;
         z-index: 0;
         font-size: 10px;
         width: 70%;
         padding: 10px;
-        left: 40px;
+        left: 52px;
         padding-left: 30px; }
 
 .nubes {
